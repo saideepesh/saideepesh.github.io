@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 ---
 
-Apart from education and work, I enjoy researching topics that intrigue me. This can mean anything from watching documentaries on how things work to reading geopolitical news. I also am an avgeek, meaning I follow the world of aviation and do not let go any 'planespotting' opportunity I get.
+Apart from education and work, I enjoy researching topics that intrigue me. This can mean anything from watching documentaries on how things work to reading geopolitical news. I also am an avgeek, meaning I follow the world of aviation and do not let go of any 'planespotting' opportunity I get.
 
 I love learning new languages. These are the languages that I can speak fluently, or am learning to speak fluently (in no particular order):
 
