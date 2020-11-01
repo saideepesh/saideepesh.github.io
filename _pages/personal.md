@@ -17,4 +17,8 @@ I love learning new languages. These are the languages that I can speak fluently
 
 My favorite sport, and the one that I usually play, is Table Tennis. I am not extremely good at it, but I hope to be, one day.
 
-<img align="justify" src="https://saideepesh.github.io/files/TT.gif?raw=true" alt="Photo" style="width: 300px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
+<!-- img align="justify" src="https://saideepesh.github.io/files/TT.gif?raw=true" alt="Photo" style="width: 300px; border-radius: 10px; padding: 8px 8px 8px 8px"/> -->
+
+<p align="center">
+  <img width="300" height="300" src="https://saideepesh.github.io/files/TT.gif?raw=true">
+</p>
