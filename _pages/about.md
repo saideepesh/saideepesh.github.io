@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: "Home"
-excerpt: "About me"
+excerpt: "Sai Deepesh Pokala"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a Graduate Student, currently pursuing my MSc in Artificial Intelligence at [**CentraleSupélec**](https://www.centralesupelec.fr/en) - Paris, France. I have a Bachelor's degree in Electronics and Communication Engineering from [**IIITDM**](https://www.iiitdm.ac.in) - Chennai, India.
+I am a Graduate Student, currently pursuing my MSc in Artificial Intelligence at [**CentraleSupélec**](https://www.centralesupelec.fr/en). I have a Bachelor's degree in Electronics and Communication Engineering from [**IIITDM**](https://www.iiitdm.ac.in) - Chennai, India.
 
 My academic interests lie in the domains of Signal Processing, Machine Learning and Natural Language Processing (NLP). My previous work experience has primarily been in pattern detection in vocalization data.
 
