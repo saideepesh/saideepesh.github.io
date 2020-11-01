@@ -20,8 +20,8 @@ Worked on the development of an unsupervised Spiking Neural Network (**SNN**) wi
 
 Analyzed vocalization data and attempted to cluster them with Machine Learning algorithms like Principal Component Analysis (**PCA**) in order to facilitate mapping with cortical activity; critical for the development of a Brain-Computer Interface (BCI).
 
-- Analyzed Minipig Vocalization Data (MVD) to facilitate mapping between MVD and Cortical Data
-- Studied spectrograms and labelled audio files of the vocalization data as grunts, squeals and screams using Spike2
-- Performed data cleaning and dimensionality reduction of the data through spectrogram analysis and noise removal
-- Coded functions to successfully implement clustering algorithms like PCA and t-SNE using MATLAB
+- Analyzed Minipig Vocalization Data (MVD) to facilitate mapping between MVD and cortical data.
+- Studied spectrograms and labelled audio files of the vocalization data as grunts, squeals and screams using Spike2.
+- Performed data cleaning and dimensionality reduction of the data through spectrogram analysis and noise removal.
+- Coded functions to successfully implement clustering algorithms like PCA and t-SNE using MATLAB.
 - **Techniques Used**: Spectrogram Analysis, Principal Component Analysis, t-SNE, Independent Component Analysis
