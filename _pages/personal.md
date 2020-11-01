@@ -11,7 +11,7 @@ I love learning new languages. These are the languages that I can speak fluently
 
 - **Telugu**      : తెలుగు నా మాతృభాష.
 - **English**     : I am fluent in the English language.
-- **Hindi**       : अब जो मै इंडिया से हू, हिंदी आनी ही चाहिए!  
+- **Hindi**       : अब जो मैं इंडिया से हूँ, हिंदी आनी ही चाहिए!  
 - **French**      : Pour le moment, j'ai une certification de niveau A2. Mais je parle en français tous les jours et ça s'améliore avec le temps.
 - **Tamil**       : அப்படியே சென்னை ல கேப் டிரைவர் ஓட பேசி பேசி தமிழ் வந்திருச்சு.
 
