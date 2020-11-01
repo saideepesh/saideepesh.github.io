@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "About"
+  - title: "Home"
     url: /about/
 
   - title: "Education"
@@ -11,6 +11,9 @@ main:
 
   - title: "Research"
     url: /research/
+
+  - title: "Personal"
+    url: /personal/
 
 
   #
