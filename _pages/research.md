@@ -7,7 +7,7 @@ classes: wide
 
 ## Development of an unsupervised SNN for vocalization classification - INSERM (May - Oct '20)
 
-This work was a part of the [European Union Horizon 2020 Project](https://ec.europa.eu/programmes/horizon2020/en).
+This work was a part of the [European Union Horizon 2020 Project](https://ec.europa.eu/programmes/horizon2020/en){:target="_blank" rel="noopener"}.
 
 Worked on the development of an unsupervised Spiking Neural Network (**SNN**) with Spike-Timing-Dependent-Plasticity (**STDP**) for classification of vocalizations.
 
