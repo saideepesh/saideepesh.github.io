@@ -48,13 +48,13 @@ $type-size-8                : 0.625em;  // ~10px
    ========================================================================== */
 
 $gray                       : #000000;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$dark-gray                  : mix(#000, $gray, 20%);
+$darker-gray                : mix(#000, $gray, 40%);
+$light-gray                 : mix(#fff, $gray, 30%);
+$lighter-gray               : mix(#fff, $gray, 80%);
 
-$body-color                 : #141010;
-$background-color           : #141010;
+$body-color                 : #080808;
+$background-color           : #080808;
 $code-background-color      : mix(#000, $background-color, 15%);
 $code-background-color-dark : mix(#000, $background-color, 20%);
 $text-color                 : #fff6fb;
