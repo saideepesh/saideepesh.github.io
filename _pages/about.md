@@ -14,4 +14,4 @@ My academic interests lie in the domains of Signal Processing, Machine Learning 
 
 You can find more information in my [CV](https://saideepesh.github.io/files/PSD_CV_November_2020.pdf){:target="_blank" rel="noopener"}.
 
-<img align="middle" src="https://saideepesh.github.io/files/Deepesh_Prague.jpeg?raw=true" alt="Photo" style="width: 700px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
+<img align="middle" src="https://saideepesh.github.io/files/Deepesh_Prague.jpeg?raw=true" alt="Photo" style="width: 620px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
