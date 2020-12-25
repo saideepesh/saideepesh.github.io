@@ -9,7 +9,7 @@ classes: wide
 
 This work was a part of the [European Union Horizon 2020 Project](https://ec.europa.eu/programmes/horizon2020/en){:target="_blank" rel="noopener"}.
 
-Worked on the development of an unsupervised Spiking Neural Network (**SNN**) with Spike-Timing-Dependent-Plasticity (**STDP**) for classification of vocalizations.
+Developed an unsupervised Spiking Neural Network (**SNN**) with Spike-Timing-Dependent-Plasticity (**STDP**) for classification of vocalizations.
 
 - Encoded raw analog audio into discrete spike trains with 'time-to-first-spike' encoding.
 - Implemented a Low-Threshold-Spiking (LTS) Neuron model to mimic the activity of biological neurons by introducing a temporal dimension to the activation of neurons.
