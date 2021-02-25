@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Home"
 excerpt: "Sai Deepesh Pokala"
 author_profile: true
 redirect_from:
