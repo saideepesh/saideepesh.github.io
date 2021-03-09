@@ -14,7 +14,7 @@ I have a Master's degree in Artificial Intelligence from [**CentraleSupélec**](
 
 My academic interests lie in the domains of Signal Processing, Machine Learning and Natural Language Processing (NLP). 
 
-<!--> You can find more information in my [CV](https://saideepesh.github.io/files/PSD_CV_Dec 2020.pdf){:target="_blank" rel="noopener"}.
+<!--You can find more information in my [CV](https://saideepesh.github.io/files/PSD_CV_Dec 2020.pdf){:target="_blank" rel="noopener"}.-->
 
 <p align="center">
   <img width="620" height="620" src="https://saideepesh.github.io/files/Deepesh_Prague.jpeg?raw=true">
