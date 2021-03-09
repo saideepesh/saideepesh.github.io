@@ -7,7 +7,7 @@ classes: wide
 
 ## **Doctor of Philosophy**, Neuromorphic Artificial Intelligence                              
 [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/){:target="_blank" rel="noopener"} - Paris, France.\
-(**March '21 - present**)\
+(**March '21 - present**)
 
 ## **Master of Science**, Artificial Intelligence                                
 [CentraleSupélec](https://www.centralesupelec.fr/en){:target="_blank" rel="noopener"} - Paris, France.\
