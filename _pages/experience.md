@@ -5,9 +5,12 @@ author_profile: true
 classes: wide
 ---
 
-* **Doctoral Researcher**, [INSERM](https://www.inserm.fr/en){:target="_blank" rel="noopener"} and [Grenoble Institut des Neurosciences](https://neurosciences.univ-grenoble-alpes.fr/en/){:target="_blank" rel="noopener"} - Grenoble, France. (Mar 2021 - present
-* **Artificial Intelligence Research Intern**, [INSERM](https://www.inserm.fr/en){:target="_blank" rel="noopener"} - Grenoble, France. (May - Oct 2020)
-* **Research Intern**, [INSERM](https://www.inserm.fr/en){:target="_blank" rel="noopener"} - Grenoble, France. (May - Oct 2018)
+* **Doctoral Researcher**, [INSERM](https://www.inserm.fr/en){:target="_blank" rel="noopener"} and [Grenoble Institut des Neurosciences](https://neurosciences.univ-grenoble-alpes.fr/en/){:target="_blank" rel="noopener"} (Mar 2021 - present)
+
+# Previous Work Experience 
+
+* **Artificial Intelligence Research Intern**, [INSERM](https://www.inserm.fr/en){:target="_blank" rel="noopener"} - Grenoble, France (May - Oct 2020)
+* **Research Intern**, [INSERM](https://www.inserm.fr/en){:target="_blank" rel="noopener"} - Grenoble, France (May - Oct 2018)
 
 # Summer School
 
