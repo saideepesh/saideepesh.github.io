@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently working as an [**INSERM**](https://www.inserm.fr/en){:target="_blank" rel="noopener"} Doctoral Researcher at the [**Grenoble Institut des Neurosciences**](https://neurosciences.univ-grenoble-alpes.fr/en/){:target="_blank" rel="noopener"}. My research lies in the domain of Neuromorphic/brain-inspired Artificial Intelligence.
 
-I have a Master's degree in Artificial Intelligence from [**CentraleSupélec**](https://www.centralesupelec.fr/en){:target="_blank" rel="noopener"} in Paris, France. I have a Bachelor's degree in Electronics and Communication Engineering from [**IIITDM Kancheepuram**](https://www.iiitdm.ac.in){:target="_blank" rel="noopener"} in Chennai, India.
+I have a Master's degree in Artificial Intelligence from [**CentraleSupélec**](https://www.centralesupelec.fr/en){:target="_blank" rel="noopener"}, Paris, France. I have a Bachelor's degree in Electronics and Communication Engineering from [**IIITDM Kancheepuram**](https://www.iiitdm.ac.in){:target="_blank" rel="noopener"}, Chennai, India.
 
 My academic interests lie in the domains of Signal Processing, Machine Learning and Natural Language Processing (NLP). 
 
