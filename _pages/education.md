@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 ---
 
-## **Doctor of Philosophy**, Neuromorphic Artificial Intelligence                              
+## **Doctor of Philosophy**                              
 [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/){:target="_blank" rel="noopener"} - Grenoble, France.\
 (**March '21 - present**)
 
