@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as an [**INSERM**](https://www.inserm.fr/en){:target="_blank" rel="noopener"} Doctoral Researcher at the [**NeuroTech Laboratory**](https://www.neurotech-lab.fr/){:target="_blank" rel="noopener"}, [**Grenoble Institut des Neurosciences**](https://neurosciences.univ-grenoble-alpes.fr/en/){:target="_blank" rel="noopener"}. My research lies in the domain of Neuromorphic/brain-inspired Artificial Intelligence.
+I am currently working as an [**INSERM**](https://www.inserm.fr/en){:target="_blank" rel="noopener"} Doctoral Researcher at the [**NeuroTech Laboratory**](https://www.neurotech-lab.fr/){:target="_blank" rel="noopener"}, [**Grenoble Institut des Neurosciences**](https://neurosciences.univ-grenoble-alpes.fr/en/){:target="_blank" rel="noopener"}. My research lies in the domain of Neuromorphic/Brain-inspired Artificial Intelligence and Hebbian Learning.
 
 I have a Master's degree in Artificial Intelligence from [**CentraleSupélec**](https://www.centralesupelec.fr/en){:target="_blank" rel="noopener"} - Paris, France and a Bachelor's degree in Electronics and Communication Engineering from [**IIITDM Kancheepuram**](https://www.iiitdm.ac.in){:target="_blank" rel="noopener"} - Chennai, India.
 
