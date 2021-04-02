@@ -119,7 +119,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  kaggle           : https://www.kaggle.com/saideepesh
+  links:
+    - label: "Kaggle"
+      icon: "fab fa-fw fa-kaggle"
+      url: "https://www.kaggle.com/saideepesh"
 
 
 # Reading Files
