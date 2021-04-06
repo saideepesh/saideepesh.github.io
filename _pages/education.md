@@ -12,7 +12,7 @@ classes: wide
 ## **Master of Science**, Artificial Intelligence                                
 [CentraleSupélec](https://www.centralesupelec.fr/en){:target="_blank" rel="noopener"} - Paris, France.\
 (**Sep '19 - Jan '21**)\
-**GPA** - 16.5/20
+**GPA** - 16.5/20 (**Mention**: Très Bien)
 
 **Key Courses**: Machine Learning, Deep Learning, Optimization, Computer Vision,
 Big Data, Reinforcement Learning, Natural Language Processing
