@@ -22,5 +22,5 @@ My academic interests lie in the domains of Signal Processing, Machine Learning 
 
 
 <p align="center">
-  _Marseille Vieux Port, 2018_
+  <i>Marseille Vieux Port, 2018</i>
 </p>
