@@ -17,10 +17,10 @@ My research interests lie in the domains of Signal Processing, Machine Learning 
 <!--You can find more information in my [CV](https://saideepesh.github.io/files/PSD_CV_Dec 2020.pdf){:target="_blank" rel="noopener"}.-->
 
 <p align="center">
-  <img src="https://saideepesh.github.io/files/Marseille 2018.jpeg?raw=true">
+  <img src="https://saideepesh.github.io/files/MUHBA Barcelona.jpeg?raw=true">
 </p>
 
 
 <p align="center">
-  <i>Marseille Vieux Port, Summer '18</i>
+  <i>Barcelona, Spain - November '21</i>
 </p>
