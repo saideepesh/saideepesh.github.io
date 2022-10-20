@@ -12,7 +12,7 @@ I love learning new languages. These are the languages that I can speak fluently
 - **Telugu**      : తెలుగు నా మాతృభాష.
 - **English**     : I am fluent in the English language.
 - **Hindi**       : अब जो मैं भारत से हूँ, हिंदी आनी ही चाहिए!  
-- **French**      : Pour le moment, j'ai une certification de niveau A2. Mais je parle en français tous les jours et ça s'améliore avec le temps.
+- **French**      : J'ai obtenu une certification de niveau A2 en 2019 et depuis, j'ai amélioré mes compétences en français en le pratiquant avec mes amis et collègues. Il faut que je passe un test de français bientôt pour déterminer mon niveau actuel.
 - **Tamil**       : அப்படியே சென்னை ல கேப் டிரைவர் ஓட பேசி பேசி தமிழ் வந்திருச்சு.
 
 My favorite sport, and the one that I usually play, is Table Tennis. I am not extremely good at it, but I hope to be, one day.
