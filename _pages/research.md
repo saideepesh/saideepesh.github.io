@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 ---
 
-## PhD (ongoing)<br/>Neuromorphic processing of vocal and neural data<br/>INSERM, Grenoble Institute des Neurosciences (Mar 21 - present)
+## PhD (ongoing)<br/>Neuromorphic processing of vocal and neural data<br/>INSERM, Grenoble Institute des Neurosciences (Mar '21 - present)
 
 This work is a part of the [**ANR**](https://anr.fr/en/){:target="_blank" rel="noopener"} [**Brain-Net**](https://sites.google.com/view/brainnet-project/accueil){:target="_blank" rel="noopener"} project in collaboration with academic and industrial partners. The goal of my thesis is to develop unsupervised Spiking Neural Networks (**SNNs**) to classify spectro-temporal data. 
 
