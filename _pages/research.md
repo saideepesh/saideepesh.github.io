@@ -25,7 +25,7 @@ Poster - Development of an unsupervised Spiking Neural Network for vocal and spe
 <span style="color:green">ISRC-CN3 Autumn School</span> - Derry, United Kingdom - October 2022\
 Computational Neuroscience, Neurotechnology and Neuro-inspired AI Autumn School
 
-## Artificial Intelligence Research Internship - Development of an unsupervised SNN for vocalization classification - INSERM (May - Oct '20)
+## Artificial Intelligence Research Internship<br/>Development of an unsupervised SNN for vocalization classification<br/>INSERM (May - Oct '20)
 
 This work was a part of the [European Union Horizon 2020 Project](https://ec.europa.eu/programmes/horizon2020/en){:target="_blank" rel="noopener"}.
 
@@ -36,7 +36,7 @@ Developed an unsupervised Spiking Neural Network (**SNN**) with Spike-Timing-Dep
 - Implemented the STDP learning rule to enhance learning by updating the synaptic weights of the network.
 
 
-## Research Internship - Analysis of minipig vocalization data - INSERM (May - Oct '18)
+## Research Internship<br/>Analysis of minipig vocalization data<br/>INSERM (May - Oct '18)
 
 Analyzed vocalization data and attempted to cluster them with Machine Learning algorithms like Principal Component Analysis (**PCA**) in order to facilitate mapping with cortical activity; critical for the development of a Brain-Computer Interface (BCI).
 
