@@ -5,7 +5,15 @@ author_profile: true
 classes: wide
 ---
 
-## Development of an unsupervised SNN for vocalization classification - INSERM (May - Oct '20)
+## PhD (ongoing) - Neuromorphic processing of vocal and neural data - INSERM, Grenoble Institute des Neurosciences (Mar 21 - present)
+
+This work is a part of the [**ANR**](https://anr.fr/en/){:target="_blank" rel="noopener"} [**Brain-Net**](https://sites.google.com/view/brainnet-project/accueil){:target="_blank" rel="noopener"} project in collaboration with academic and industrial partners. The goal of my thesis is to develop unsupervised Spiking Neural Networks (**SNNs**) to classify spectro-temporal data. 
+
+### Conferences 
+
+Neuroscience 2022 - San Diego, California 
+
+## Artificial Intelligence Research Internship - Development of an unsupervised SNN for vocalization classification - INSERM (May - Oct '20)
 
 This work was a part of the [European Union Horizon 2020 Project](https://ec.europa.eu/programmes/horizon2020/en){:target="_blank" rel="noopener"}.
 
@@ -16,7 +24,7 @@ Developed an unsupervised Spiking Neural Network (**SNN**) with Spike-Timing-Dep
 - Implemented the STDP learning rule to enhance learning by updating the synaptic weights of the network.
 
 
-## Analysis of minipig vocalization data - INSERM (May - Oct '18)
+## Research Internship - Analysis of minipig vocalization data - INSERM (May - Oct '18)
 
 Analyzed vocalization data and attempted to cluster them with Machine Learning algorithms like Principal Component Analysis (**PCA**) in order to facilitate mapping with cortical activity; critical for the development of a Brain-Computer Interface (BCI).
 
