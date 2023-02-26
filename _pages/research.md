@@ -11,10 +11,10 @@ This work is a part of the [**ANR**](https://anr.fr/en/){:target="_blank" rel="n
 
 ### Conferences 
 
-<span style="color:lime">Neuroscience 2022</span> - San Diego, California, USA - November 2022\
+<span style="color:green">Neuroscience 2022</span> - San Diego, California, USA - November 2022\
 Poster - Unsupervised classification of vocal and speech patterns with artificial Spiking Neural Networks
 
-<span style="color:silver">CORTICO Days 2022</span> - Autrans, France - March 2022\
+<span style="color:green">CORTICO Days 2022</span> - Autrans, France - March 2022\
 Poster - Development of an unsupervised Spiking Neural Network for the classification of spectro-temporal patterns
 
 <span style="color:green">Neuroscience 2021</span> - virtual - November 2021\
@@ -22,7 +22,7 @@ Poster - Development of an unsupervised Spiking Neural Network for vocal and spe
 
 ### Scientific Training
 
-<span style="color:gray">ISRC-CN3 Autumn School</span> - Derry, United Kingdom - October 2022\
+<span style="color:green">ISRC-CN3 Autumn School</span> - Derry, United Kingdom - October 2022\
 Computational Neuroscience, Neurotechnology and Neuro-inspired AI Autumn School
 
 ## Artificial Intelligence Research Internship - Development of an unsupervised SNN for vocalization classification - INSERM (May - Oct '20)
