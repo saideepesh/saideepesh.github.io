@@ -17,7 +17,7 @@ Unsupervised classification of vocal and speech patterns with artificial Spiking
 **CORTICO Days 2022** - Autrans, France - March 2022
 Development of an unsupervised Spiking Neural Network for the classification of spectro-temporal patterns
 
-**Neuroscience 2021** - Chicago, Illinois, USA - November 2021
+**Neuroscience 2021** - virtual - November 2021
 Development of an unsupervised Spiking Neural Network for vocal and speech patterns classification
 
 ### Scientific Training
