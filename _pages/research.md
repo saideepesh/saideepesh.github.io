@@ -11,7 +11,7 @@ This work is a part of the [**ANR**](https://anr.fr/en/){:target="_blank" rel="n
 
 ### Conferences 
 
-**Neuroscience 2022** - San Diego, California, USA - November 2022\
+<span style="color:blue">Neuroscience 2022</span>. - San Diego, California, USA - November 2022\
 Poster - Unsupervised classification of vocal and speech patterns with artificial Spiking Neural Networks
 
 **CORTICO Days 2022** - Autrans, France - March 2022\
