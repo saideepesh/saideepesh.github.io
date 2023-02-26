@@ -9,7 +9,7 @@ classes: wide
 
 This work is a part of the [**ANR**](https://anr.fr/en/){:target="_blank" rel="noopener"} [**Brain-Net**](https://sites.google.com/view/brainnet-project/accueil){:target="_blank" rel="noopener"} project in collaboration with academic and industrial partners. The goal of my thesis is to develop unsupervised Spiking Neural Networks (**SNNs**) to classify spectro-temporal data. 
 
-<font size="5">**Conferences**</font>
+<font size="5"><b>Conferences</b></font>
 
 <span style="color:green">Neuroscience 2022</span> - San Diego, California, USA - November 2022\
 Poster - Unsupervised classification of vocal and speech patterns with artificial Spiking Neural Networks
@@ -20,7 +20,7 @@ Poster - Development of an unsupervised Spiking Neural Network for the classific
 <span style="color:green">Neuroscience 2021</span> - virtual - November 2021\
 Poster - Development of an unsupervised Spiking Neural Network for vocal and speech patterns classification
 
-<font size="5">**Scientific Training**</font>
+<font size="5"><b>Scientific Training</b></font>
 
 <span style="color:green">ISRC-CN3 Autumn School</span> - Derry, United Kingdom - October 2022\
 Computational Neuroscience, Neurotechnology and Neuro-inspired AI Autumn School
