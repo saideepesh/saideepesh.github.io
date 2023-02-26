@@ -14,4 +14,4 @@ I am currently working as a **Doctoral Researcher** at [INSERM](https://www.inse
 
 # Summer School
 
-* [**BrainCom Summer School**](http://www.braincom-project.eu/braincom-summer-school-in-barcelona/){:target="_blank" rel="noopener"} - Barcelona, Spain. (September 2018)
+**BrainCom Summer School** - Barcelona, Spain. (September 2018)
