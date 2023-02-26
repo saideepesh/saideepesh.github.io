@@ -10,8 +10,8 @@ Apart from education and work, I enjoy researching topics that intrigue me. This
 I love learning new languages. These are the languages that I can speak fluently, or am learning to speak fluently (in no particular order):
 
 - **Telugu**      : తెలుగు నా మాతృభాష.
-- **English**     : I am fluent in the English language.
 - **Hindi**       : अब जो मैं भारत से हूँ, हिंदी आनी ही चाहिए!  
+- **English**     : I am fluent in the English language.
 - **French**      : J'ai obtenu une certification de niveau A2 en 2019 et depuis, j'ai amélioré mes compétences en français en le pratiquant avec mes amis et collègues. Il faut que je passe un test de français bientôt pour déterminer mon niveau actuel.
 - **Tamil**       : அப்படியே சென்னை ல கேப் டிரைவர் ஓட பேசி பேசி தமிழ் வந்திருச்சு.
 
