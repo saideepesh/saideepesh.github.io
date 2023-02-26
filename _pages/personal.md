@@ -20,5 +20,5 @@ My favorite sport, and the one that I usually play, is Table Tennis. I am not ex
 <!-- img align="justify" src="https://saideepesh.github.io/files/TT.gif?raw=true" alt="Photo" style="width: 300px; border-radius: 10px; padding: 8px 8px 8px 8px"/> -->
 
 <p align="center">
-  <img src="https://saideepesh.github.io/files/tabletennis.gif?raw=true">
+  <img src="https://saideepesh.github.io/files/TT.gif?raw=true">
 </p>
