@@ -13,7 +13,6 @@ I am currently working as a **Doctoral Researcher** at [INSERM](https://www.inse
 * **Artificial Intelligence Research Intern**, [INSERM](https://www.inserm.fr/en){:target="_blank" rel="noopener"} - Grenoble, France (May - Oct 2020)
 * **Research Intern**, [INSERM](https://www.inserm.fr/en){:target="_blank" rel="noopener"} - Grenoble, France (May - Oct 2018)
 -->
-
 ## Artificial Intelligence Research Internship<br/>Development of an unsupervised SNN for vocalization classification<br/>INSERM (May - Oct '20)
 
 This work was a part of the [European Union Horizon 2020 Project](https://ec.europa.eu/programmes/horizon2020/en){:target="_blank" rel="noopener"}.
@@ -23,7 +22,6 @@ Developed an unsupervised Spiking Neural Network (**SNN**) with Spike-Timing-Dep
 - Encoded raw analog audio into discrete spike trains with 'time-to-first-spike' encoding.
 - Implemented a Low-Threshold-Spiking (LTS) Neuron model to mimic the activity of biological neurons by introducing a temporal dimension to the activation of neurons.
 - Implemented the STDP learning rule to enhance learning by updating the synaptic weights of the network.
-
 
 ## Research Internship<br/>Analysis of minipig vocalization data<br/>INSERM (May - Oct '18)
 
