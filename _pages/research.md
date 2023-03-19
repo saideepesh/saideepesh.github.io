@@ -25,6 +25,16 @@ Poster - Development of an unsupervised Spiking Neural Network for vocal and spe
 <span style="color:green">ISRC-CN3 Autumn School</span> - Derry, United Kingdom - October 2022\
 Computational Neuroscience, Neurotechnology and Neuro-inspired AI Autumn School
 
+
+<p align="center">
+  <img src="https://saideepesh.github.io/images/1666916373934-E.jpg?raw=true">
+</p>
+
+
+<p align="center">
+  <i>ISRC-CN3 2022 formal dinner - Derry, United Kingdom</i>
+</p>
+
 ## Artificial Intelligence Research Internship<br/>Development of an unsupervised SNN for vocalization classification<br/>INSERM (May - Oct '20)
 
 This work was a part of the [European Union Horizon 2020 Project](https://ec.europa.eu/programmes/horizon2020/en){:target="_blank" rel="noopener"}.
