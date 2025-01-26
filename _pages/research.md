@@ -9,7 +9,7 @@ classes: wide
 
 This work was a part of the [**ANR**](https://anr.fr/en/){:target="_blank" rel="noopener"} [**Brain-Net**](https://sites.google.com/view/brainnet-project/accueil){:target="_blank" rel="noopener"} project in collaboration with academic and industrial partners. The goal of the thesis was to develop robust, unsupervised Spiking Neural Networks (**SNNs**) to classify spectro-temporal data. 
 
-<font size="4.5"><span style="color:moccasin"><b>Publications</b></span></font>
+<font size="4.5"><span style="color:moccasin"><b>Journal Publications</b></span></font>
 A frugal Spiking Neural Network for unsupervised classification of continuous multivariate temporal data (_under revision with Nature Communications_)\
 [Pre-print](https://arxiv.org/abs/2408.12608){:target="_blank" rel="noopener"} (published May 2024)
 
