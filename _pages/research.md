@@ -11,7 +11,7 @@ This work was a part of the [**ANR**](https://anr.fr/en/){:target="_blank" rel="
 
 <font size="4.5"><span style="color:moccasin"><b>Journal Publications</b></span></font>
 A frugal Spiking Neural Network for unsupervised classification of continuous multivariate temporal data (_under revision with Nature Communications_)\
-[Pre-print](https://arxiv.org/abs/2408.12608){:target="_blank" rel="noopener"} (published May 2024)
+[(_arXiv pre-print_)](https://arxiv.org/abs/2408.12608){:target="_blank" rel="noopener"} (_May 2024_)
 
 <font size="4.5"><span style="color:moccasin"><b>Conferences</b></span></font>
 
