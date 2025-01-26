@@ -7,8 +7,8 @@ classes: wide
 
 ## **Doctor of Philosophy** (PhD) in Artificial Intelligence                             
 [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/){:target="_blank" rel="noopener"} - Grenoble, France.\
-(**March '21 - December '24**)
-A frugal Spiking Neural Network for unsupervised classification of multivariate temporal patterns. 
+(**March '21 - December '24**)\
+A frugal Spiking Neural Network for unsupervised classification of multivariate temporal patterns.\
 [(Thesis)](https://theses.fr/s268529){:target="_blank" rel="noopener"}
 
 ## **Master of Science**, Artificial Intelligence                                
