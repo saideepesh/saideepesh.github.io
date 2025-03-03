@@ -14,7 +14,7 @@ locale                   : "en-US"
 title                    : "Sai Deepesh POKALA"
 title_separator          : "-"
 name                     : "Sai Deepesh POKALA"
-description              : "INSERM Doctoral Researcher at GIN"
+description              : "Engineer with a PhD in AI"
 url                      : https://saideepesh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "saideepesh/saideepesh.github.io"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Sai Deepesh POKALA"
   avatar           : "Jan 2025 professional photo cropped.jpg"
-  bio              : "INSERM Doctoral Researcher at the Grenoble Institut des Neurosciences."
+  bio              : "Engineer with a PhD in Artificial Intelligence"
   location         : "Grenoble, France"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
