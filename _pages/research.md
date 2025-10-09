@@ -13,8 +13,7 @@ This work was a part of the [**ANR**](https://anr.fr/en/){:target="_blank" rel="
 A frugal Spiking Neural Network for unsupervised classification of continuous multivariate temporal data\
 [(_arXiv pre-print_)](https://arxiv.org/abs/2408.12608){:target="_blank" rel="noopener"} (_May 2024_)
 
-<font size="4.5"><span style="color:moccasin"><b>Journal Publications</b></span></font>
-a frugal Spiking Neural Network for unsupervised multivariate temporal pattern classification and multichannel spike sorting (_Nature Communications_)\
+A frugal Spiking Neural Network for unsupervised multivariate temporal pattern classification and multichannel spike sorting (_Nature Communications_)\
 (_accepted August 2025, awaiting publishing_)
 
 <font size="4.5"><span style="color:moccasin"><b>Conferences</b></span></font>
