@@ -10,9 +10,9 @@ classes: wide
 This work was a part of the [**ANR**](https://anr.fr/en/){:target="_blank" rel="noopener"} [**Brain-Net**](https://sites.google.com/view/brainnet-project/accueil){:target="_blank" rel="noopener"} project in collaboration with academic and industrial partners. The goal of the thesis was to develop robust, unsupervised Spiking Neural Networks (**SNNs**) to classify spectro-temporal data. 
 
 <font size="4.5"><span style="color:moccasin"><b>Journal Publications</b></span></font>
-A frugal Spiking Neural Network for unsupervised classification of continuous multivariate temporal data [(_arXiv pre-print_)](https://arxiv.org/abs/2408.12608){:target="_blank" rel="noopener"} (_May 2024_)\
+A frugal Spiking Neural Network for unsupervised classification of continuous multivariate temporal data [(_arXiv pre-print_)](https://arxiv.org/abs/2408.12608){:target="_blank" rel="noopener"} (_May 2024_)
 
-A frugal Spiking Neural Network for unsupervised multivariate temporal pattern classification and multichannel spike sorting (_Nature Communications_)(_accepted August 2025_)\
+A frugal Spiking Neural Network for unsupervised multivariate temporal pattern classification and multichannel spike sorting (_Nature Communications_)(_accepted August 2025_)
 
 <font size="4.5"><span style="color:moccasin"><b>Conferences</b></span></font>
 
