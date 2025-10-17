@@ -9,15 +9,15 @@ classes: wide
 
 This work was a part of the [**ANR**](https://anr.fr/en/){:target="_blank" rel="noopener"} [**Brain-Net**](https://sites.google.com/view/brainnet-project/accueil){:target="_blank" rel="noopener"} project in collaboration with academic and industrial partners. The goal of the thesis was to develop robust, unsupervised Spiking Neural Networks (**SNNs**) to classify spectro-temporal data. 
 
-<font size="4.5"><span style="color:moccasin"><b>Journal Publications</b></span></font>
+<font size="4.5"><span style="color:moccasin"><b>Journal Publications</b></span></font>  
 **Pokala, S. D.**, Bernert, M., Nanami, T., Kohno, T., Lévi, T., & Yvert, B. (2025).  
-**A frugal Spiking Neural Network for unsupervised multivariate temporal pattern classification and multichannel spike sorting.**  
-_Nature Communications_ (**accepted**, August 2025).  
+**[A frugal Spiking Neural Network for unsupervised multivariate temporal pattern classification and multichannel spike sorting.](https://doi.org/10.1038/s41467-025-64231-2){:target="_blank" rel="noopener"}**  
+_Nature Communications_, **16**, 9218 (2025).  
 
 <sub>Updated and extended version of:</sub>  
 **Pokala, S. D.**, Bernert, M., Nanami, T., Kohno, T., Lévi, T., & Yvert, B. (2024).  
-**A frugal Spiking Neural Network for unsupervised classification of continuous multivariate temporal data.**  
-[_arXiv preprint_](https://arxiv.org/abs/2408.12608){:target="_blank" rel="noopener"} (_May 2024_).
+**[A frugal Spiking Neural Network for unsupervised classification of continuous multivariate temporal data.](https://arxiv.org/abs/2408.12608){:target="_blank" rel="noopener"}**  
+_arXiv preprint_ (_May 2024_).
 
 <font size="4.5"><span style="color:moccasin"><b>Patents</b></span></font>
 
