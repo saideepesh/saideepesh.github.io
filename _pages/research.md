@@ -18,6 +18,21 @@ _arXiv preprint_ (_May 2024_).
 
 ---
 
+## <span style="color:moccasin"><b>Conference Proceedings</b></span>
+
+Mazna, G. R.\*, **Pokala, S. D.\***, & Martinet, J. (2026).  
+**[Human gaze-based filtering for action recognition: a systematic study of accuracy and efficiency.](https://link.springer.com/chapter/10.1007/978-3-032-38401-0_25){:target="_blank" rel="noopener"}**  
+_International Conference on Artificial Neural Networks (ICANN 2026)_, Padua, Italy. Springer LNCS.  
+<sub>Oral presentation</sub>  
+
+Mazna, G. R., **Pokala, S. D.**, & Martinet, J. (2026).  
+**[Exploring deep learning for event-based saliency prediction with a Transformer-based model.](https://arxiv.org/abs/2605.23790){:target="_blank" rel="noopener"}**  
+_International Conference on Neural Information Processing (ICONIP 2026)_, Melbourne, Australia.  
+
+<sub>\* Equal contribution</sub>
+
+---
+
 ## <span style="color:moccasin"><b>Patents</b></span>
 
 **Pokala, S. D.**, Bernert, M. & Yvert, B. (2025).  
@@ -26,7 +41,7 @@ _European Patent Application_ **EP25306284**, August 2025.
 
 ---
 
-## <span style="color:moccasin"><b>Conference Proceedings</b></span>
+## <span style="color:moccasin"><b>Conference Presentations</b></span>
 
 <span style="color:greenyellow">Neuroscience 2022</span> — San Diego, California, USA — November 2022  
 Poster — Unsupervised classification of vocal and speech patterns with artificial Spiking Neural Networks
