@@ -9,7 +9,7 @@ classes: wide
 * **Artificial Intelligence Research Intern**, [INSERM](https://www.inserm.fr/en){:target="_blank" rel="noopener"} - Grenoble, France (May - Oct 2020)
 * **Research Intern**, [INSERM](https://www.inserm.fr/en){:target="_blank" rel="noopener"} - Grenoble, France (May - Oct 2018)
 -->
-## AI Research Scientist (Postdoc)<br/>CNRS (I3S Laboratory)(Jan &rsquo;26 - Present)
+## AI Research Scientist (Postdoc)<br/>CNRS (I3S Laboratory) (Jan &rsquo;26 - Present)
 
 This work is a part of the [**ANR**](https://anr.fr/en/){:target="_blank" rel="noopener"} NAMED project, in collaboration with partners in neuromorphic hardware and vision.
 
